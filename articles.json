@@ -454,10 +454,10 @@
     "path": "plataformas-chinesas/001-alibaba-ou-1688-como-escolher-uma-plataforma-chinesa-sem-comecar-pelo-lugar-errado.html",
     "url": "https://compraschinaonline.com/plataformas-chinesas/001-alibaba-ou-1688-como-escolher-uma-plataforma-chinesa-sem-comecar-pelo-lugar-errado.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-alibaba-ou-1688-como-escolher-uma-plataforma-chinesa-sem-comecar-pelo-lugar-errado",
-    "word_count": 625,
+    "word_count": 940,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -512,6 +512,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: alibaba ou 1688: como escolher uma plataforma chinesa sem começar pelo lugar errado precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre Alibaba ou 1688: como escolher uma plataforma chinesa sem começar pelo lugar errado?. Ela transforma a leitura de Plataformas Chinesas em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: Alibaba ou 1688: como escolher uma plataforma chinesa sem começar pelo lugar errado?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Alibaba ou 1688: como escolher uma plataforma chinesa sem começar pelo lugar errado?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -533,7 +586,10 @@
       "length_band": "long",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   },
   {
@@ -556,10 +612,10 @@
     "path": "compra-online-da-china/001-comprar-da-china-online-parece-simples-demais-e-isso-e-justamente-o-que-assusta.html",
     "url": "https://compraschinaonline.com/compra-online-da-china/001-comprar-da-china-online-parece-simples-demais-e-isso-e-justamente-o-que-assusta.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-comprar-da-china-online-parece-simples-demais-e-isso-e-justamente-o-que-assusta",
-    "word_count": 389,
+    "word_count": 690,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -605,6 +661,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: comprar da china online parece simples demais e isso é justamente o que assusta precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Comprar da China online parece simples demais e isso é justamente o que assusta?. Ela transforma a leitura de Compra Online da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Comprar da China online parece simples demais e isso é justamente o que assusta?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China online parece simples demais e isso é justamente o que assusta?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -626,7 +735,10 @@
       "length_band": "medium",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -649,10 +761,10 @@
     "path": "pagamentos-internacionais/001-como-comprar-da-china-online-sem-travar-na-hora-do-pagamento.html",
     "url": "https://compraschinaonline.com/pagamentos-internacionais/001-como-comprar-da-china-online-sem-travar-na-hora-do-pagamento.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-comprar-da-china-online-sem-travar-na-hora-do-pagamento",
-    "word_count": 431,
+    "word_count": 721,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -707,6 +819,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: como comprar da china online sem travar na hora do pagamento precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Como comprar da China online sem travar na hora do pagamento?. Ela transforma a leitura de Pagamentos Internacionais em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Como comprar da China online sem travar na hora do pagamento?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como comprar da China online sem travar na hora do pagamento?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -728,7 +893,10 @@
       "length_band": "medium",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -751,10 +919,10 @@
     "path": "compra-online-da-china/002-comprar-da-china-online-sem-falar-com-ninguem-funciona-mesmo-ou-isso-aumenta-o-risco.html",
     "url": "https://compraschinaonline.com/compra-online-da-china/002-comprar-da-china-online-sem-falar-com-ninguem-funciona-mesmo-ou-isso-aumenta-o-risco.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-comprar-da-china-online-sem-falar-com-ninguem-funciona-mesmo-ou-isso-aumenta-o-risco",
-    "word_count": 332,
+    "word_count": 627,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -800,6 +968,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: comprar da china online sem falar com ninguém funciona mesmo ou isso aumenta o risco precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Comprar da China online sem falar com ninguém funciona mesmo ou isso aumenta o risco?. Ela transforma a leitura de Compra Online da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Comprar da China online sem falar com ninguém funciona mesmo ou isso aumenta o risco?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China online sem falar com ninguém funciona mesmo ou isso aumenta o risco?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -821,7 +1042,10 @@
       "length_band": "short",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -844,10 +1068,10 @@
     "path": "pagamentos-internacionais/002-pagar-fornecedor-chines-antes-de-ver-a-amostra-e-risco-demais-ou-as-vezes-e-o-normal.html",
     "url": "https://compraschinaonline.com/pagamentos-internacionais/002-pagar-fornecedor-chines-antes-de-ver-a-amostra-e-risco-demais-ou-as-vezes-e-o-normal.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-pagar-fornecedor-chines-antes-de-ver-a-amostra-e-risco-demais-ou-as-vezes-e-o-normal",
-    "word_count": 552,
+    "word_count": 868,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -902,6 +1126,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: pagar fornecedor chinês antes de ver a amostra é risco demais ou às vezes é o normal precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Pagar fornecedor chinês antes de ver a amostra é risco demais ou às vezes é o normal?. Ela transforma a leitura de Pagamentos Internacionais em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Pagar fornecedor chinês antes de ver a amostra é risco demais ou às vezes é o normal?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Pagar fornecedor chinês antes de ver a amostra é risco demais ou às vezes é o normal?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -923,7 +1200,10 @@
       "length_band": "long",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -946,10 +1226,10 @@
     "path": "plataformas-chinesas/002-plataforma-chinesa-com-fornecedor-verificado-ja-resolve-o-risco-ou-voce-ainda-precisa-testar-fora-do-anuncio.html",
     "url": "https://compraschinaonline.com/plataformas-chinesas/002-plataforma-chinesa-com-fornecedor-verificado-ja-resolve-o-risco-ou-voce-ainda-precisa-testar-fora-do-anuncio.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-plataforma-chinesa-com-fornecedor-verificado-ja-resolve-o-risco-ou-voce-ainda-precisa-testar-fora-do-anuncio",
-    "word_count": 669,
+    "word_count": 977,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1004,6 +1284,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: plataforma chinesa com fornecedor verificado já resolve o risco ou você ainda precisa testar fora do anúncio precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Plataforma chinesa com fornecedor verificado já resolve o risco ou você ainda precisa testar fora do anúncio?. Ela transforma a leitura de Plataformas Chinesas em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Plataforma chinesa com fornecedor verificado já resolve o risco ou você ainda precisa testar fora do anúncio?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Plataforma chinesa com fornecedor verificado já resolve o risco ou você ainda precisa testar fora do anúncio?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -1025,7 +1358,10 @@
       "length_band": "long",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -1048,10 +1384,10 @@
     "path": "plataformas-chinesas/003-1688-parece-sempre-mais-barata-que-alibaba-mas-isso-ajuda-mesmo-quando-voce-compra-do-brasil.html",
     "url": "https://compraschinaonline.com/plataformas-chinesas/003-1688-parece-sempre-mais-barata-que-alibaba-mas-isso-ajuda-mesmo-quando-voce-compra-do-brasil.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:37Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-1688-parece-sempre-mais-barata-que-alibaba-mas-isso-ajuda-mesmo-quando-voce-compra-do-brasil",
-    "word_count": 672,
+    "word_count": 996,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1106,6 +1442,59 @@
       {
         "type": "text",
         "text": "## Ferramenta rápida de validação online\n\nUse esta página como checklist de tela: anúncio, vendedor, prova, pagamento e registro da conversa.\n\nAntes de pagar, salve print da oferta, peça vídeo curto, confirme embalagem e repita uma pergunta técnica para testar consistência.\n\nSe o vendedor só responde bem quando a pergunta é fácil, a plataforma ainda não resolveu o risco principal.\n\nPara este artigo, a leitura prática é: 1688 parece sempre mais barata que alibaba, mas isso ajuda mesmo quando você compra do brasil precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre 1688 parece sempre mais barata que Alibaba, mas isso ajuda mesmo quando você compra do Brasil?. Ela transforma a leitura de Plataformas Chinesas em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: 1688 parece sempre mais barata que Alibaba, mas isso ajuda mesmo quando você compra do Brasil?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: 1688 parece sempre mais barata que Alibaba, mas isso ajuda mesmo quando você compra do Brasil?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -1127,7 +1516,10 @@
       "length_band": "long",
       "voice": "online",
       "site_layout": "toolkit",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   }
 ]
