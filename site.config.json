@@ -1,14 +1,14 @@
 {
-  "site_name": "Compras China Online",
-  "site_base_url": "https://compraschinaonline.com",
   "language": "pt-BR",
-  "tagline": "Guias para brasileiros que querem comprar da China pela internet com mais método.",
-  "description": "Conteúdo focado em compra online da China, plataformas, negociação remota, pagamento e logística para brasileiros.",
-  "author_name": "Redação Compras China Online",
-  "brand_color": "#1565c0",
-  "accent_color": "#ffca28",
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
+  "site_name": "Compras China Online",
+  "site_base_url": "https://compraschinaonline.com",
+  "tagline": "Compra online da China com foco em plataforma, pagamento e valida\u00e7\u00e3o antes do pedido.",
+  "description": "Guias para brasileiros que compram da China pela internet e precisam escolher entre Alibaba, 1688, vendedores remotos, meios de pagamento e provas m\u00ednimas antes do primeiro pedido.",
+  "author_name": "Reda\u00e7\u00e3o Compras China Online",
+  "brand_color": "#1565c0",
+  "accent_color": "#ffca28",
   "default_categories": [
     "Compra Online da China",
     "Plataformas Chinesas",
@@ -17,35 +17,35 @@
   ],
   "category_meta": {
     "compra-online-da-china": {
-      "label": "Compra Online da China",
-      "description": "Guias sobre como comprar pela internet, comparar fornecedores e organizar pedidos remotos."
+      "label": "Compra Online Validada",
+      "description": "Passos para transformar tela, chat e an\u00fancio em uma compra verific\u00e1vel antes de pagar."
     },
     "plataformas-chinesas": {
-      "label": "Plataformas Chinesas",
-      "description": "Artigos sobre Alibaba, 1688, marketplaces e formas de avaliar plataformas chinesas."
+      "label": "Alibaba, 1688 e Marketplaces",
+      "description": "Compara\u00e7\u00f5es pr\u00e1ticas entre canais online, tipos de vendedor, prote\u00e7\u00e3o de plataforma e limites de cada ambiente."
     },
     "pagamentos-internacionais": {
-      "label": "Pagamentos Internacionais",
-      "description": "Explicações sobre formas de pagamento, riscos, comprovação e cuidados em transações externas."
+      "label": "Pagamento e Prote\u00e7\u00e3o",
+      "description": "Crit\u00e9rios para pagar fornecedor chin\u00eas online com menos risco, documenta\u00e7\u00e3o e confirma\u00e7\u00e3o escrita."
     },
     "frete-internacional": {
-      "label": "Frete Internacional",
-      "description": "Conteúdo sobre envio internacional, prazo, modal e organização do transporte."
+      "label": "Frete do Pedido Online",
+      "description": "Cuidados para conectar compra remota, prazo, rastreio e custo de envio sem perder margem."
     }
   },
-  "hero_title": "Como comprar da China online sem se perder nas etapas",
-  "hero_subtitle": "Um site focado em plataformas, negociação remota, pagamento internacional e logística para quem compra tudo pela internet.",
-  "primary_cta_label": "Ver plataformas",
+  "hero_title": "Comprar da China online: plataforma, vendedor e pagamento",
+  "hero_subtitle": "Escolha plataforma, compare vendedor, organize provas e revise pagamento antes de transformar uma conversa online em pedido real.",
+  "primary_cta_label": "Comparar Alibaba e 1688",
   "primary_cta_target": "/plataformas-chinesas/",
-  "secondary_cta_label": "Entender pagamentos",
+  "secondary_cta_label": "Revisar pagamento",
   "secondary_cta_target": "/pagamentos-internacionais/",
   "pain_points": [
-    "Dúvida sobre onde comprar online",
-    "Receio de cair em plataforma ruim",
-    "Insegurança no pagamento internacional",
-    "Falta de confiança no fornecedor remoto",
-    "Confusão entre preço e custo final",
-    "Falta de clareza sobre frete internacional"
+    "Escolher entre Alibaba, 1688 e marketplace sem crit\u00e9rio",
+    "Confiar em vendedor remoto s\u00f3 pela tela do an\u00fancio",
+    "Pagar antes de confirmar produto, embalagem e prazo",
+    "Confundir prote\u00e7\u00e3o da plataforma com fornecedor validado",
+    "N\u00e3o guardar prova escrita do que foi combinado",
+    "Calcular frete e custo final tarde demais"
   ],
   "homepage_featured_categories": [
     "plataformas-chinesas",
@@ -54,16 +54,16 @@
   ],
   "homepage_faq": [
     {
-      "q": "Qual é a melhor forma de comprar da China online?",
-      "a": "A melhor forma é escolher a plataforma certa, comparar fornecedores, validar a comunicação e entender o custo final antes do pagamento."
+      "q": "Alibaba ou 1688 \u00e9 melhor para brasileiros?",
+      "a": "Depende do tipo de pedido, MOQ, idioma, media\u00e7\u00e3o e forma de pagamento. O site compara plataforma pelo risco operacional, n\u00e3o s\u00f3 pelo pre\u00e7o que aparece primeiro."
     },
     {
-      "q": "Como reduzir risco ao pagar fornecedores chineses online?",
-      "a": "O caminho mais seguro é confirmar reputação, condições do pedido, comprovantes e regras de pagamento antes de transferir dinheiro."
+      "q": "Como validar um vendedor chin\u00eas online antes do primeiro pedido?",
+      "a": "Pe\u00e7a v\u00eddeo real, confirma\u00e7\u00e3o escrita de especifica\u00e7\u00e3o, embalagem, prazo e condi\u00e7\u00f5es de pagamento. Depois compare a consist\u00eancia da resposta em mais de uma pergunta."
     },
     {
-      "q": "Vale a pena comprar tudo pela internet sem intermediário?",
-      "a": "Pode valer, mas só quando você entende plataforma, frete, documentação básica e negociação remota com clareza suficiente."
+      "q": "Pagamento por plataforma elimina o risco?",
+      "a": "N\u00e3o. Prote\u00e7\u00e3o de plataforma ajuda, mas n\u00e3o substitui valida\u00e7\u00e3o de vendedor, prova do produto e revis\u00e3o do custo total antes de pagar."
     }
   ]
 }
