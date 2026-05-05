@@ -1,0 +1,69 @@
+{
+  "site_name": "Compras China Online",
+  "site_base_url": "https://compraschinaonline.com",
+  "language": "pt-BR",
+  "tagline": "Guias para brasileiros que querem comprar da China pela internet com mais método.",
+  "description": "Conteúdo focado em compra online da China, plataformas, negociação remota, pagamento e logística para brasileiros.",
+  "author_name": "Redação Compras China Online",
+  "brand_color": "#1565c0",
+  "accent_color": "#ffca28",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Compra Online da China",
+    "Plataformas Chinesas",
+    "Pagamentos Internacionais",
+    "Frete Internacional"
+  ],
+  "category_meta": {
+    "compra-online-da-china": {
+      "label": "Compra Online da China",
+      "description": "Guias sobre como comprar pela internet, comparar fornecedores e organizar pedidos remotos."
+    },
+    "plataformas-chinesas": {
+      "label": "Plataformas Chinesas",
+      "description": "Artigos sobre Alibaba, 1688, marketplaces e formas de avaliar plataformas chinesas."
+    },
+    "pagamentos-internacionais": {
+      "label": "Pagamentos Internacionais",
+      "description": "Explicações sobre formas de pagamento, riscos, comprovação e cuidados em transações externas."
+    },
+    "frete-internacional": {
+      "label": "Frete Internacional",
+      "description": "Conteúdo sobre envio internacional, prazo, modal e organização do transporte."
+    }
+  },
+  "hero_title": "Como comprar da China online sem se perder nas etapas",
+  "hero_subtitle": "Um site focado em plataformas, negociação remota, pagamento internacional e logística para quem compra tudo pela internet.",
+  "primary_cta_label": "Ver plataformas",
+  "primary_cta_target": "/plataformas-chinesas/",
+  "secondary_cta_label": "Entender pagamentos",
+  "secondary_cta_target": "/pagamentos-internacionais/",
+  "pain_points": [
+    "Dúvida sobre onde comprar online",
+    "Receio de cair em plataforma ruim",
+    "Insegurança no pagamento internacional",
+    "Falta de confiança no fornecedor remoto",
+    "Confusão entre preço e custo final",
+    "Falta de clareza sobre frete internacional"
+  ],
+  "homepage_featured_categories": [
+    "plataformas-chinesas",
+    "compra-online-da-china",
+    "pagamentos-internacionais"
+  ],
+  "homepage_faq": [
+    {
+      "q": "Qual é a melhor forma de comprar da China online?",
+      "a": "A melhor forma é escolher a plataforma certa, comparar fornecedores, validar a comunicação e entender o custo final antes do pagamento."
+    },
+    {
+      "q": "Como reduzir risco ao pagar fornecedores chineses online?",
+      "a": "O caminho mais seguro é confirmar reputação, condições do pedido, comprovantes e regras de pagamento antes de transferir dinheiro."
+    },
+    {
+      "q": "Vale a pena comprar tudo pela internet sem intermediário?",
+      "a": "Pode valer, mas só quando você entende plataforma, frete, documentação básica e negociação remota com clareza suficiente."
+    }
+  ]
+}

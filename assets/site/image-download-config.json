@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "site": "compraschinaonline.com",
+  "site_base_url": "https://compraschinaonline.com",
+  "allowed_sources": [
+    {
+      "name": "AI-generated local assets",
+      "license_url": "",
+      "search_base_url": "",
+      "notes": "Generate image assets specifically for this workspace and keep local copies only."
+    }
+  ],
+  "global_rules": {
+    "download_locally": true,
+    "hotlink_forbidden": true,
+    "avoid_logos_and_brands": true,
+    "avoid_recognizable_people_when_unnecessary": true,
+    "prefer_neutral_trade_visuals": true
+  },
+  "theme": "Online buying, remote sourcing and payments",
+  "targets": [
+    {
+      "target_path": "assets/site/hero.webp",
+      "purpose": "Optional homepage support image",
+      "queries": [
+        "ecommerce sourcing laptop",
+        "remote supplier meeting laptop",
+        "online import research"
+      ],
+      "notes": "Choose a neutral image that matches the site angle without logos, storefront brands or product packaging trademarks."
+    },
+    {
+      "target_path": "assets/site/guide.webp",
+      "purpose": "Homepage reading-path support image",
+      "queries": [
+        "online purchase checklist",
+        "payment planning documents",
+        "remote supplier validation desk"
+      ],
+      "notes": "Use a quiet planning, logistics or sourcing scene that supports the guide panel without text overlays."
+    },
+    {
+      "target_path": "assets/og/default.webp",
+      "purpose": "Default Open Graph image for homepage and article fallback",
+      "queries": [
+        "online sourcing notes",
+        "international payment workspace"
+      ],
+      "notes": "Crop locally to 1200x630, keep a clean central subject and avoid busy text overlays."
+    }
+  ],
+  "selected_assets": {
+    "hero": {
+      "provider": "AI-generated",
+      "source_page": "local://generated_assets/compraschinaonline-source.png",
+      "download_host": "local-generated",
+      "status": "generated"
+    },
+    "guide": {
+      "provider": "AI-generated",
+      "source_page": "local://generated_assets/compraschinaonline-source.png",
+      "download_host": "local-generated",
+      "status": "generated"
+    },
+    "og": {
+      "provider": "AI-generated",
+      "source_page": "local://generated_assets/compraschinaonline-source.png",
+      "download_host": "local-generated",
+      "status": "generated"
+    },
+    "article": {
+      "provider": "AI-generated",
+      "source_page": "local://generated_assets/compraschinaonline-source.png",
+      "download_host": "local-generated",
+      "status": "generated"
+    }
+  }
+}
