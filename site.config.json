@@ -5,9 +5,9 @@
   "homepage_layout": "toolkit",
   "site_name": "Compras China Online",
   "site_base_url": "https://compraschinaonline.com",
-  "tagline": "Compra online da China com foco em plataforma, pagamento e valida\u00e7\u00e3o antes do pedido.",
-  "description": "Guias para brasileiros que compram da China pela internet e precisam escolher entre Alibaba, 1688, vendedores remotos, meios de pagamento e provas m\u00ednimas antes do primeiro pedido.",
-  "author_name": "Reda\u00e7\u00e3o Compras China Online",
+  "tagline": "Comprar da China online com prova antes do pagamento",
+  "description": "Checklists para validar vendedor online, comparar plataforma, revisar invoice e evitar transferência antes da prova mínima.",
+  "author_name": "Equipe Compras China Online, especialista em compra remota e plataformas chinesas",
   "brand_color": "#1565c0",
   "accent_color": "#ffca28",
   "default_categories": [
@@ -19,34 +19,32 @@
   "category_meta": {
     "compra-online-da-china": {
       "label": "Compra Online Validada",
-      "description": "Passos para transformar tela, chat e an\u00fancio em uma compra verific\u00e1vel antes de pagar."
+      "description": "Passos para transformar tela, chat e anúncio em uma compra verificável antes de pagar."
     },
     "plataformas-chinesas": {
       "label": "Alibaba, 1688 e Marketplaces",
-      "description": "Compara\u00e7\u00f5es pr\u00e1ticas entre canais online, tipos de vendedor, prote\u00e7\u00e3o de plataforma e limites de cada ambiente."
+      "description": "Comparações práticas entre canais online, tipos de vendedor, proteção de plataforma e limites de cada ambiente."
     },
     "pagamentos-internacionais": {
-      "label": "Pagamento e Prote\u00e7\u00e3o",
-      "description": "Crit\u00e9rios para pagar fornecedor chin\u00eas online com menos risco, documenta\u00e7\u00e3o e confirma\u00e7\u00e3o escrita."
+      "label": "Pagamento e Proteção",
+      "description": "Critérios para pagar fornecedor chinês online com menos risco, documentação e confirmação escrita."
     },
     "frete-internacional": {
       "label": "Frete do Pedido Online",
       "description": "Cuidados para conectar compra remota, prazo, rastreio e custo de envio sem perder margem."
     }
   },
-  "hero_title": "Comprar da China online: plataforma, vendedor e pagamento",
-  "hero_subtitle": "Escolha plataforma, compare vendedor, organize provas e revise pagamento antes de transformar uma conversa online em pedido real.",
+  "hero_title": "Comprar no Alibaba ou 1688 com prova antes do pagamento",
+  "hero_subtitle": "Checklists para validar vendedor online, comparar plataforma, revisar invoice e evitar transferência antes da prova mínima.",
   "primary_cta_label": "Comparar Alibaba e 1688",
-  "primary_cta_target": "/plataformas-chinesas/",
-  "secondary_cta_label": "Revisar pagamento",
-  "secondary_cta_target": "/pagamentos-internacionais/",
+  "primary_cta_target": "/plataformas-chinesas/004-alibaba-ou-1688-qual-faz-sentido-para-brasileiros.html",
+  "secondary_cta_label": "Validar vendedor online",
+  "secondary_cta_target": "/compra-online-da-china/003-como-validar-vendedor-online-antes-do-primeiro-pedido.html",
   "pain_points": [
-    "Escolher entre Alibaba, 1688 e marketplace sem crit\u00e9rio",
-    "Confiar em vendedor remoto s\u00f3 pela tela do an\u00fancio",
-    "Pagar antes de confirmar produto, embalagem e prazo",
-    "Confundir prote\u00e7\u00e3o da plataforma com fornecedor validado",
-    "N\u00e3o guardar prova escrita do que foi combinado",
-    "Calcular frete e custo final tarde demais"
+    "Risco central: Alibaba、1688、线上付款、卖家验证、远程采购",
+    "Leitor atendido: comprador online que precisa validar anúncio, vendedor e pagamento antes do primeiro pedido",
+    "Fronteira editorial: 不抢转售利润和 SKU 深度判断词",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "plataformas-chinesas",
@@ -55,22 +53,23 @@
   ],
   "homepage_faq": [
     {
-      "q": "Alibaba ou 1688 \u00e9 melhor para brasileiros?",
-      "a": "Depende do tipo de pedido, MOQ, idioma, media\u00e7\u00e3o e forma de pagamento. O site compara plataforma pelo risco operacional, n\u00e3o s\u00f3 pelo pre\u00e7o que aparece primeiro."
+      "q": "Alibaba é mais seguro que 1688?",
+      "a": "Alibaba costuma ser mais simples para compra remota; 1688 pode exigir idioma, pagamento local, agente e conferência."
     },
     {
-      "q": "Como validar um vendedor chin\u00eas online antes do primeiro pedido?",
-      "a": "Pe\u00e7a v\u00eddeo real, confirma\u00e7\u00e3o escrita de especifica\u00e7\u00e3o, embalagem, prazo e condi\u00e7\u00f5es de pagamento. Depois compare a consist\u00eancia da resposta em mais de uma pergunta."
+      "q": "Quando não pagar fornecedor online?",
+      "a": "Quando invoice, produto, embalagem, prazo e prova do lote ainda não batem com a conversa."
     },
     {
-      "q": "Pagamento por plataforma elimina o risco?",
-      "a": "N\u00e3o. Prote\u00e7\u00e3o de plataforma ajuda, mas n\u00e3o substitui valida\u00e7\u00e3o de vendedor, prova do produto e revis\u00e3o do custo total antes de pagar."
+      "q": "Selo de vendedor resolve o risco?",
+      "a": "Não. Selo ajuda no filtro inicial, mas não substitui vídeo, confirmação escrita e pedido teste."
     }
   ],
   "author_profile": {
     "name": "Equipe editorial Compras China Online",
     "role": "Pesquisa editorial sobre plataformas chinesas e compra online",
-    "bio": "Equipe focada em Alibaba, 1688, valida\u00e7\u00e3o de vendedor remoto, pagamento internacional e prova m\u00ednima antes do primeiro pedido.",
-    "experience": "Os guias priorizam checklists, mensagens copi\u00e1veis e crit\u00e9rios de valida\u00e7\u00e3o para compras feitas pela internet."
-  }
+    "bio": "Equipe focada em Alibaba, 1688, validação de vendedor remoto, pagamento internacional e prova mínima antes do primeiro pedido.",
+    "experience": "Os guias priorizam checklists, mensagens copiáveis e critérios de validação para compras feitas pela internet."
+  },
+  "precision_homepage_type": "ferramentas"
 }
